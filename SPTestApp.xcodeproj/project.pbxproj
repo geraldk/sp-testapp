@@ -83,6 +83,8 @@
 			dependencies = (
 			);
 			name = SPTestApp;
+			packageProductDependencies = (
+			);
 			productName = SPTestApp;
 			productReference = 75E0309925F5FF0A00F4729E /* SPTestApp.app */;
 			productType = "com.apple.product-type.application";
@@ -110,6 +112,8 @@
 				Base,
 			);
 			mainGroup = 75E0309025F5FF0A00F4729E;
+			packageReferences = (
+			);
 			productRefGroup = 75E0309A25F5FF0A00F4729E /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
